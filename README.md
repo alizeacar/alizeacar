@@ -6,7 +6,7 @@
 🤝 I’m looking for help with Turkish Question Answering
 💻 All of my projects are available at https://github.com/alizeacar
 💬 Ask me about NLP, Machine Learning, Python
-📫 How to reach saeacar@gmail.com
+📫 How to reach me saeacar@gmail.com
 
 
 <!---
